@@ -1,0 +1,29 @@
+# Admin dashboard labels
+dashboard:
+    label: "User Management"
+    label_users: Users
+    label_groups: Groups
+
+# Admin list labels
+list:
+    label_username: Username
+    label_email: Email
+    label_groups: Groups
+    label_enabled: Enabled
+    label_locked: Locked
+
+# Admin form labels
+form:
+    label_username: Username
+    label_email: Email
+    label_plain_password: Plaintext password
+    label_roles: Roles
+    label_groups: Groups
+    label_locked: Locked
+    label_expired: Expired
+    label_enabled: Enabled
+    label_credentials_expired: Credentials expired
+
+# Admin breadcrumb
+breadcrumb:
+    link_user_list: Users
