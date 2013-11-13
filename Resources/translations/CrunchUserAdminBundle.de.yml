@@ -11,6 +11,8 @@ list:
     label_groups: Gruppen
     label_enabled: Aktiviert
     label_locked: Gesperrt
+    label_name: Name
+    label_roles: Rollen
 
 # Admin form labels
 form:
@@ -23,7 +25,16 @@ form:
     label_expired: Abgelaufen
     label_enabled: Aktiviert
     label_credentials_expired: Zugangsdaten abgelaufen
+    label_name: Name
 
 # Admin breadcrumb
 breadcrumb:
     link_user_list: Benutzer
+    link_group_list: Gruppen
+
+filter:
+    label_username: Username
+    label_locked: Locked
+    label_email: Email
+    label_groups: Groups
+    label_name: Name
